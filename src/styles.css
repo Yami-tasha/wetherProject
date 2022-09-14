@@ -1,0 +1,47 @@
+h1,
+h2,
+p {
+  text-align: right;
+}
+h3 {
+  font-size: 45px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: lighter;
+}
+.col {
+  font-size: 75px;
+  text-align: center;
+}
+.container {
+  border: 2px solid black;
+}
+.verh {
+  background-color: rgb(103, 103, 252);
+  border: 1px solid white;
+  margin: 10px auto;
+}
+.days {
+  background-color: white;
+  border: 1px solid black;
+  margin: 10px auto;
+}
+.sun {
+  position: relative;
+  font-size: 100px;
+  right: 150px;
+  top: -20px;
+}
+.kuiev {
+  position: relative;
+  font-size: 60px;
+  bottom: 70px;
+  right: 50px;
+}
+.procent {
+  position: relative;
+  right: 40px;
+  bottom: 70px;
+}
